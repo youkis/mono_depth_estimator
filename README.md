@@ -7,4 +7,4 @@ Sparse and quantized CNN accelerator by an Intel FPGA.
  - Intel FPGA SDK for OpenCL 17.1
  - C++ OpenCV environment on your host pc
 
-![img](./preds.jpg "img")
+![img](./preds.png "img")
