@@ -1,0 +1,5 @@
+/bin/*
+!/bin/tmp_img.txt
+tags
+sync_archive
+*.out

@@ -1,0 +1,12 @@
+*.np[yz]
+__pycache__
+*.py[cod]
+*.png
+*.bmp
+archive
+snapshot*
+logs
+*.caffemodel
+tags
+docker-compose.yml
+gpu_bench
